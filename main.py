@@ -3,7 +3,7 @@ To create an electronic pet.
 
 Author: Yuhao Zhu
 Version:
-    20180601: Create an electronic pet that changes status every 5 minutes.
+    20180601: Create an electronic pet.
 """
 
 import random
@@ -105,7 +105,7 @@ happiness = random.randint(0, 100)
 status = "sleep"
 order = ""
 welcome_words = """
-My name is Tommy, a cute cat...
+My name is Fantuan, a cute hamster...
 You can walk and play with me. You need also give me delicious food and take me to hospital in case of illness. You can also made me doing nothing...
 Command:
 1. walk
